@@ -117,7 +117,7 @@ class MyBrandAdapter implements Adapter {
 
 If ScreenFlow saved you hours of work or helped you build a faster app, consider supporting the development!
 
-<a href="https://www.buymeacoffee.com/Mansikansagara9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
+<a href="https://www.buymeacoffee.com/Mansikansagara9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30% !important;width: 30% !important;" ></a>
 
 ---
 
