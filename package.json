@@ -18,8 +18,23 @@
     "flow",
     "screen-tracking"
   ],
-  "author": "",
+  "author": "Mansi Kansagara (https://github.com/Mansikansagara9)",
   "license": "ISC",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mansikansagara9/screen-flow.git"
+  },
+  "contributors": [
+    {
+      "name": "Kaushik Vaghasiya",
+      "email": "kaushikvaghasiya134@gmail.com",
+      "url": "https://github.com/kaushik134"
+    }
+  ],
   "devDependencies": {
     "@types/jest": "^30.0.0",
     "@types/react": "^19.2.7",
